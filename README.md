@@ -1,1 +1,1 @@
-# legendary-succotash
+this is the first version (v0.0.0) or alpha prerelease 1! please don't expect this to be that good.
